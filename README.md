@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Kamila
+- 👀 I’m interested in database development and learn to code/programming
+- 🌱 I’m currently learning Python and C/C++
